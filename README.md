@@ -4,6 +4,11 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.12.6 · 2026-10-23
+- **Fixed:** after a force quit or an update from the hold-OK menu, the remote could stop
+  moving the selection on Home, or the selection jumped back to the first app. It now always
+  lands back on the app you chose, and the arrows work straight away.
+
 ## v0.12.5 · 2026-10-23
 - **Update** in an app's hold-OK menu only shows up when that app really has an update.
   Every few hours, once Home has sat untouched for 3 minutes, Westy looks at each Home app's
