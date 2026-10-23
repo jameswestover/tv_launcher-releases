@@ -4,6 +4,13 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.12.5 · 2026-10-23
+- **Update** in an app's hold-OK menu only shows up when that app really has an update.
+  Every few hours, once Home has sat untouched for 3 minutes, Westy looks at each Home app's
+  Play Store page behind a still picture of Home. Pressing any button stops it straight away.
+- Choosing **Update** presses Update in the Play Store for you and stays on Home, the same
+  way Force quit works: the tile greys out with a spinning ring until the update is installed.
+
 ## v0.12.4 · 2026-10-23
 - **Settings:** the on-screen back arrow is gone; press Back on the remote. The menu now
   wraps around: up from the top goes to the bottom, and down from the bottom to the top.
