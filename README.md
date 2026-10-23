@@ -3,6 +3,13 @@
 Signed builds of the Westy-ku TV launcher. Boxes check here once a day and
 update themselves when the TV turns off. Newest first.
 
+## v0.9.0 · 2026-10-23
+- **Installing an update** now shows an "Installing…" screen, then Westy-ku restarts and
+  opens Settings > Updates saying "Updated to version …" (or why it didn't install).
+- **Google account:** just one button now, **Manage accounts**.
+- **Back from Google's screens** (Wi-Fi, accounts and so on) now always returns to Westy-ku,
+  instead of sometimes to another Google screen opened earlier.
+
 ## v0.8.0 · 2026-10-23
 - **Google account:** new Settings section to switch, add or remove the Google account the
   box and Play Store use (it opens Google's own account screens).
