@@ -4,6 +4,13 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.12.1 · 2026-10-23
+- **Force quit** no longer flashes a full-screen "Closing…" message. The app's tile greys out
+  and a little ring fills in on it, like an app updating on a phone, then the tile turns back
+  to normal when it's done.
+- **Fixed:** the Westy logo could play again when coming back from Google's screens (like
+  Manage accounts) after an update. It now plays once per update or restart.
+
 ## v0.12.0 · 2026-10-23
 - **Settings is tidier:**
   - The menu is in groups: Home, the TV, connections, updates, then Power.
