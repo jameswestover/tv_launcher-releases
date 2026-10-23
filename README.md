@@ -1,8 +1,20 @@
-# Westy-ku releases
+# WestyBox releases
 
-Signed builds of the Westy-ku TV launcher. Boxes check here once a day and
+Signed builds of the WestyBox TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
+
+## v0.11.0 · 2026-10-23
+- **New name: WestyBox.**
+- **Hold OK on an app** on Home for a menu:
+  - **Force quit** closes an app that's stuck, then comes back to Home.
+  - **Move** lets you slide the app left or right with the arrows; press OK to drop it, or
+    Back to leave it where it was.
+- **Settings > Apps** has a new choice, **Order on Home**: **Most watched first** (as before)
+  or **In my order**. Moving an app switches to "In my order".
+- **Restarting the box** stays on Home instead of reopening the last app.
+- **Sleep after** now lists the time the box was already set to (Google's default is
+  20 minutes), so the current choice is always ticked.
 
 ## v0.10.0 · 2026-10-23
 - **Settings > Developer** (only on the developer's own box): try new versions as betas
