@@ -3,6 +3,12 @@
 Signed builds of the Westy-ku TV launcher. Boxes check here once a day and
 update themselves when the TV turns off. Newest first.
 
+## v0.6.1 · 2026-10-23
+- **Remote buttons:** pressing Back while choosing an app for a button, or while waiting
+  for a button press, now goes back to the list of buttons instead of to Home.
+- **Waking up:** turning the TV back on always shows Westy-ku's Home, instead of sometimes
+  returning to the last app that was open.
+
 ## v0.6.0 · 2026-10-23
 - **Remote buttons:** new Settings section to choose which app each app button on the
   remote opens. Choose "Add a button", press the button on the remote, then pick the app.
