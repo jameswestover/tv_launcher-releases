@@ -4,6 +4,12 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.12.3 · 2026-10-23
+- **The remote always works during a force quit.** Version 0.12.2 ignored it for those few
+  seconds; now only the Home button does anything special (it cancels).
+- Behind the scenes: Westy picks its own download by name, so the update helper can later
+  be published alongside each release.
+
 ## v0.12.2 · 2026-10-23
 - **Update an app:** hold OK on it on Home and choose **Update**. It opens the app's Play
   Store page, which has an Update button when there's one.
