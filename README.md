@@ -4,6 +4,17 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.11.3 · 2026-10-23
+- **Force quit** now happens behind a "Closing …" screen, instead of showing Android's
+  App info screen while Westy presses its buttons.
+- **Force quit on an app that isn't open** goes straight back to Home, instead of stopping on
+  Android's App info screen.
+- **Settings > Developer:**
+  - The channel choice now just says **Release** or **Beta**.
+  - A **Check for updates** button checks on that channel and refreshes the version list.
+  - Picking a beta in the list offers **Make public**, which makes it the version every
+    box gets.
+
 ## v0.11.2 · 2026-10-23
 - **New name: Westy.**
 - **Updates no longer flash the last app you used** while Westy restarts. A plain "Installing
