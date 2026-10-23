@@ -4,6 +4,12 @@ Signed builds of the WestyBox TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.11.1 · 2026-10-23
+- **Hold OK on an app** now opens a small dropdown right under it, like a right-click menu,
+  instead of a box in the middle of the screen.
+- **Settings > Updates** shows exactly when it last checked, for example "checked at
+  Oct 23, 5:10 AM".
+
 ## v0.11.0 · 2026-10-23
 - **New name: WestyBox.**
 - **Hold OK on an app** on Home for a menu:
