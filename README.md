@@ -3,6 +3,16 @@
 Signed builds of the Westy-ku TV launcher. Boxes check here once a day and
 update themselves when the TV turns off. Newest first.
 
+## v0.8.0 · 2026-10-23
+- **Google account:** new Settings section to switch, add or remove the Google account the
+  box and Play Store use (it opens Google's own account screens).
+- **Buttons all look the same:** see-through with an outline, turning solid white when the
+  remote is on them. The white button is always the one OK presses.
+- **Settings:** moving right from the menu always lands on the first option in a section
+  (for example "Check for updates", not the Google system button).
+- **After an update:** Westy-ku starts straight back up on Home, and turning the TV back on
+  shows Home instead of the last app.
+
 ## v0.7.0 · 2026-10-23
 - **Install updates automatically** (Settings > Updates, on by default). Updates install by
   themselves whenever nobody is using the TV: after Home sits untouched for 3 minutes, once
