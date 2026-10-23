@@ -3,6 +3,15 @@
 Signed builds of the Westy-ku TV launcher. Boxes check here once a day and
 update themselves when the TV turns off. Newest first.
 
+## v0.7.0 · 2026-10-23
+- **Install updates automatically** (Settings > Updates, on by default). Updates install by
+  themselves whenever nobody is using the TV: after Home sits untouched for 3 minutes, once
+  the screensaver has been on for 2 minutes, or when the TV turns off. Never while an app
+  like Netflix is open. Turn it off to only install when you choose.
+- **Check for updates** in Settings > Updates asks "Install it now?" when it finds one, and
+  the button becomes **Install update**: press it and Westy-ku restarts on the new version
+  within seconds.
+
 ## v0.6.2 · 2026-10-23
 - **Settings:** pressing Back inside a section (like Apps or Network) now returns to the
   Settings menu instead of to Home. Back from the menu still goes Home.
