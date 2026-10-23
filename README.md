@@ -1,8 +1,15 @@
-# WestyBox releases
+# Westy releases
 
-Signed builds of the WestyBox TV launcher. Boxes check here once a day and
+Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
+
+## v0.11.2 · 2026-10-23
+- **New name: Westy.**
+- **Updates no longer flash the last app you used** while Westy restarts. A plain "Installing
+  update" screen covers the gap instead. Needs the small "Westy updater" helper app, which
+  setup-box.sh now installs.
+- **Settings > Developer** marks the version every box gets as **Public**, next to the betas.
 
 ## v0.11.1 · 2026-10-23
 - **Hold OK on an app** now opens a small dropdown right under it, like a right-click menu,
