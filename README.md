@@ -3,6 +3,10 @@
 Signed builds of the Westy-ku TV launcher. Boxes check here once a day and
 update themselves when the TV turns off. Newest first.
 
+## v0.6.2 · 2026-10-23
+- **Settings:** pressing Back inside a section (like Apps or Network) now returns to the
+  Settings menu instead of to Home. Back from the menu still goes Home.
+
 ## v0.6.1 · 2026-10-23
 - **Remote buttons:** pressing Back while choosing an app for a button, or while waiting
   for a button press, now goes back to the list of buttons instead of to Home.
