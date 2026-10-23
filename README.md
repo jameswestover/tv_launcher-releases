@@ -4,6 +4,14 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.12.0 · 2026-10-23
+- **Settings is tidier:**
+  - The menu is in groups: Home, the TV, connections, updates, then Power.
+  - **Screensaver & sleep** is now one page, with both choices side by side.
+  - "Set up TV control" is now just **TV control**.
+  - **Updates** is shorter, and says when you're on the beta channel.
+  - **Power** has its two buttons side by side.
+
 ## v0.11.3 · 2026-10-23
 - **Force quit** now happens behind a "Closing …" screen, instead of showing Android's
   App info screen while Westy presses its buttons.
