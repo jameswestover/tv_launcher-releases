@@ -4,6 +4,16 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.12.4 · 2026-10-23
+- **Settings:** the on-screen back arrow is gone; press Back on the remote. The menu now
+  wraps around: up from the top goes to the bottom, and down from the bottom to the top.
+- **Power** is one button, **Turn off or restart**, which opens the box's power menu,
+  instead of two buttons that both ended up there anyway.
+- **Update** in an app's hold-OK menu now stays on Home: Westy checks the app's Play Store
+  page behind the scenes and either starts the update (the tile greys out with a spinning
+  ring until it's installed) or shows "Up to date" under the tile.
+- After a force quit or update, focus comes back to that app instead of the first one.
+
 ## v0.12.3 · 2026-10-23
 - **The remote always works during a force quit.** Version 0.12.2 ignored it for those few
   seconds; now only the Home button does anything special (it cancels).
