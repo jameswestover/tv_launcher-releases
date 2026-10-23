@@ -4,6 +4,13 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.12.7 · 2026-10-23
+- **Force quit can't leave the remote stuck any more.** If it ever seems frozen, press any
+  button: Westy stops straight away and shows Home with that app still selected. Before,
+  only the Home button got you out, and it moved the selection back to the first app.
+- Force quit and Update keep checking the screen they're working on, so they no longer stall
+  when the box is slow to fill it in.
+
 ## v0.12.6 · 2026-10-23
 - **Fixed:** after a force quit or an update from the hold-OK menu, the remote could stop
   moving the selection on Home, or the selection jumped back to the first app. It now always
