@@ -1,7 +1,13 @@
 # Westy-ku releases
 
 Signed builds of the Westy-ku TV launcher. Boxes check here once a day and
-update themselves when the TV turns off. Newest first.
+update themselves when nobody is using the TV. New builds start as betas
+(pre-releases) and become releases once they've been tested. Newest first.
+
+## v0.10.0 · 2026-10-23
+- **Settings > Developer** (only on the developer's own box): try new versions as betas
+  before everyone else gets them, and go back to any earlier version.
+- New versions now reach the other boxes only after they've been tested.
 
 ## v0.9.1 · 2026-10-23
 - **After an update** you asked for, Westy-ku restarts with its logo animation and
