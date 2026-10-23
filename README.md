@@ -4,6 +4,14 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.12.2 · 2026-10-23
+- **Update an app:** hold OK on it on Home and choose **Update**. It opens the app's Play
+  Store page, which has an Update button when there's one.
+- **Settings > Apps > App updates** explains where to choose automatic or manual app
+  updates in the Play Store, with a button to open it.
+- **Fixed:** force quit could leave the screen frozen at the end. It now always finishes
+  within a few seconds, and the Home button cancels it straight away.
+
 ## v0.12.1 · 2026-10-23
 - **Force quit** no longer flashes a full-screen "Closing…" message. The app's tile greys out
   and a little ring fills in on it, like an app updating on a phone, then the tile turns back
