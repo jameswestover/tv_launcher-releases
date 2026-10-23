@@ -3,6 +3,11 @@
 Signed builds of the Westy-ku TV launcher. Boxes check here once a day and
 update themselves when the TV turns off. Newest first.
 
+## v0.9.1 · 2026-10-23
+- **After an update** you asked for, Westy-ku restarts with its logo animation and
+  "Updated to version …" underneath, then lands on Home. If an update fails, Settings >
+  Updates opens to show why.
+
 ## v0.9.0 · 2026-10-23
 - **Installing an update** now shows an "Installing…" screen, then Westy-ku restarts and
   opens Settings > Updates saying "Updated to version …" (or why it didn't install).
