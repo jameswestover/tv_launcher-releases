@@ -1,0 +1,17 @@
+[
+  {
+    "package": "com.jameswestover.westy.curtain",
+    "name": "Update curtain",
+    "description": "Covers the screen while Westy updates.",
+    "file": "westy-curtain",
+    "hidden": true,
+    "versionCode": 1
+  },
+  {
+    "package": "com.jameswestover.westy.livetv",
+    "name": "Live TV",
+    "description": "Antenna, playlist and stream channels, set up from your phone or computer.",
+    "file": "westy-livetv",
+    "versionCode": 1
+  }
+]

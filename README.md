@@ -4,6 +4,15 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.13.0 · 2026-10-26
+- **Westy apps.** Settings > Apps has a new "Westy apps" list of apps made for this box. Press
+  Install, then OK when the TV asks. The app goes on Home and opens, and Westy keeps it up to
+  date from then on, like itself.
+- **Live TV**, the first Westy app: free local channels from an HDHomeRun antenna tuner,
+  playlists from your own media server or TV service, and single streams. Set up the channels
+  from your phone or computer: Live TV shows a code to scan and the address to type. On the
+  TV, Up and Down change channel and Back shows the channel list.
+
 ## v0.12.7 · 2026-10-23
 - **Force quit can't leave the remote stuck any more.** If it ever seems frozen, press any
   button: Westy stops straight away and shows Home with that app still selected. Before,
