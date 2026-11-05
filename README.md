@@ -4,6 +4,11 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.13.10 · 2026-11-05
+- **Plex already open stays put.** Putting on a show while Plex was in front reopened Plex, which
+  brought back what it had paused and then turned the new show away ("item failed to play").
+- **Opening an app that's already on screen leaves it alone.** Plex used to reload the show.
+
 ## v0.13.9 · 2026-11-05
 - **Asleep is fine.** Asking the home server to put something on while the TV is asleep or showing
   the screensaver now wakes it first and then plays, instead of Plex closing straight away.
