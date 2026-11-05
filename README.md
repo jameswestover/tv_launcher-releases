@@ -4,6 +4,10 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.13.5 · 2026-11-05
+- **No double start.** Putting on a show while Plex is already open starts it once, at your spot,
+  without Plex first replaying what was on.
+
 ## v0.13.4 · 2026-11-05
 - **Right where you left off.** Asking the home server to put on a show starts the episode in
   Plex at the spot you stopped, even when Plex wasn't open yet.
