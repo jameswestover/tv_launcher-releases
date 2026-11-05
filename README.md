@@ -4,6 +4,10 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.13.6 · 2026-11-05
+- **Switching shows while Plex is playing.** Putting on a show while something else is playing or
+  paused in Plex stops that first, so Plex doesn't turn the new one away with an error.
+
 ## v0.13.5 · 2026-11-05
 - **No double start.** Putting on a show while Plex is already open starts it once, at your spot,
   without Plex first replaying what was on.
