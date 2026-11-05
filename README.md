@@ -4,6 +4,10 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.13.8 · 2026-11-05
+- **Where you left off, even from cold.** When Plex wasn't open, the show started from the
+  beginning; Westy now checks it got to your spot and tries again if it didn't.
+
 ## v0.13.7 · 2026-11-05
 - **Switching shows, for real.** Also when Plex was paused in the background: opening it brought
   the paused show back, which then turned the new one away.
