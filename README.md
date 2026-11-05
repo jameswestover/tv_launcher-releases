@@ -4,6 +4,10 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.13.2 · 2026-11-05
+- **Picking up where you left off.** The home server can now open a show in Plex at the episode
+  you're on, not just open Plex.
+
 ## v0.13.1 · 2026-11-05
 - **Opening apps from the home server.** Asking the home server (or Claude in the Westy Home
   app) to open an app on this TV now opens it. If the app isn't on this box, the TV says so.
