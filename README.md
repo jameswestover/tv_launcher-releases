@@ -4,6 +4,10 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.13.11 · 2026-11-05
+- **Skip around by asking.** The home server can move what Plex plays: "forward 5 minutes",
+  "back 30 seconds", "go to 42 minutes".
+
 ## v0.13.10 · 2026-11-05
 - **Plex already open stays put.** Putting on a show while Plex was in front reopened Plex, which
   brought back what it had paused and then turned the new show away ("item failed to play").
