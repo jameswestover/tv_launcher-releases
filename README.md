@@ -4,6 +4,10 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.13.3 · 2026-11-05
+- **Picking up where you left off, for real.** Asking the home server to put on a show now
+  starts the episode in Plex, instead of opening Plex's home screen.
+
 ## v0.13.2 · 2026-11-05
 - **Picking up where you left off.** The home server can now open a show in Plex at the episode
   you're on, not just open Plex.
