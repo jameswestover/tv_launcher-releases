@@ -4,6 +4,10 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.13.1 · 2026-11-05
+- **Opening apps from the home server.** Asking the home server (or Claude in the Westy Home
+  app) to open an app on this TV now opens it. If the app isn't on this box, the TV says so.
+
 ## v0.13.0 · 2026-10-26
 - **Westy apps.** Settings > Apps has a new "Westy apps" list of apps made for this box. Press
   Install, then OK when the TV asks. The app goes on Home and opens, and Westy keeps it up to
