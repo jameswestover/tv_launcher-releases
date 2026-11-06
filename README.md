@@ -4,6 +4,11 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.14.0 · 2026-11-06
+- **Answers on the TV.** Ask "Hey Sprinkles" a question in a room with a TV ("how many touchdowns
+  does the Packers' quarterback have?") and the answer pops up in the corner for a few seconds,
+  over whatever is playing, without pausing it.
+
 ## v0.13.11 · 2026-11-05
 - **Skip around by asking.** The home server can move what Plex plays: "forward 5 minutes",
   "back 30 seconds", "go to 42 minutes".
