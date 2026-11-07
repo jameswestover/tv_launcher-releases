@@ -4,6 +4,12 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.14.1 · 2026-11-07
+- **It's listening.** Say "Hey Sprinkles" in a room with a TV and a small spinning dial shows in the
+  corner until the request is done, so a missed wake word is obvious. If it couldn't work out what
+  you wanted, the dial turns into a puzzled face for a couple of seconds. Switch it per room on the
+  home server's page (Voice › Replies).
+
 ## v0.14.0 · 2026-11-06
 - **Answers on the TV.** Ask "Hey Sprinkles" a question in a room with a TV ("how many touchdowns
   does the Packers' quarterback have?") and the answer pops up in the corner for a few seconds,
