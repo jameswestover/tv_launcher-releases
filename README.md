@@ -4,6 +4,9 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.14.3 · 2026-11-07
+- **The happy emoji shows.** v0.14.2's "it worked" emoji never appeared; now it does.
+
 ## v0.14.2 · 2026-11-07
 - **It worked.** When a "Hey Sprinkles" request goes through, the listening dial flashes a happy
   emoji for a second (the puzzled face is still there when it doesn't). Pick the TV for "It worked,
