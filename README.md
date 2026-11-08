@@ -4,6 +4,11 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.16.0 · 2026-11-08
+- **Listening, then thinking.** After "Hey Sprinkles", the spinning dial shows while you talk. Once
+  you've finished, it turns into three pulsing dots while Sprinkles works it out, until the answer
+  (spoken, shown, or an emoji).
+
 ## v0.15.1 · 2026-11-08
 - **The show comes back after Sprinkles talks.** In v0.15.0 a spoken reply could leave the show
   silent until you restarted the app, and the reply was much louder than the show. Now it speaks
