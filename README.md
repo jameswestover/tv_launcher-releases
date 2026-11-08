@@ -4,6 +4,11 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.15.1 · 2026-11-08
+- **The show comes back after Sprinkles talks.** In v0.15.0 a spoken reply could leave the show
+  silent until you restarted the app, and the reply was much louder than the show. Now it speaks
+  at the TV's normal volume and the show's sound always comes back.
+
 ## v0.15.0 · 2026-11-08
 - **Sprinkles can talk through the TV.** Pick "The TV says it" for a room on the home server's
   Voice › Replies page, and its answers are spoken through the TV as well as shown. Whatever is
