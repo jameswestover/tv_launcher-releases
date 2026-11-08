@@ -4,6 +4,11 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.15.0 · 2026-11-08
+- **Sprinkles can talk through the TV.** Pick "The TV says it" for a room on the home server's
+  Voice › Replies page, and its answers are spoken through the TV as well as shown. Whatever is
+  playing gets quieter for the reply and comes back after.
+
 ## v0.14.3 · 2026-11-07
 - **The happy emoji shows.** v0.14.2's "it worked" emoji never appeared; now it does.
 
