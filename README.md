@@ -4,6 +4,11 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.17.3 · 2026-11-26
+- **Fire TVs: Amazon's extras stay off.** Each time the TV starts, Westy turns off Amazon's ads,
+  tracking, shopping, telemetry and Alexa, including the parts the TV switches back on by
+  itself. The first time, the TV asks "Allow USB debugging?": tick Always allow.
+
 ## v0.17.2 · 2026-11-26
 - **Fire TVs: the Appstore, not the Play Store.** On a Fire TV, Settings › Apps now talks about
   Amazon's Appstore and opens it, and the Google account page is gone.
