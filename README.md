@@ -4,6 +4,11 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.17.1 · 2026-11-26
+- **A first try on Amazon Fire TVs.** Westy now installs on Fire TVs (Fire OS 8). Amazon's home
+  screen can't be removed, so Westy steps in front of it. On a Fire TV, updates ask on screen
+  before installing. Nothing changes on other boxes.
+
 ## v0.17.0 · 2026-11-26
 - **Cast from the home server.** A new Cast app (add it in Settings › Apps) shows a web page
   from the home server's browser on the TV, with sound. Pick the page and press Cast on the
