@@ -4,6 +4,11 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.17.0 · 2026-11-26
+- **Cast from the home server.** A new Cast app (add it in Settings › Apps) shows a web page
+  from the home server's browser on the TV, with sound. Pick the page and press Cast on the
+  server's cast page from a phone or computer; press Back on the remote to stop.
+
 ## v0.16.0 · 2026-11-08
 - **Listening, then thinking.** After "Hey Sprinkles", the spinning dial shows while you talk. Once
   you've finished, it turns into three pulsing dots while Sprinkles works it out, until the answer

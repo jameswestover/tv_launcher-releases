@@ -13,5 +13,12 @@
     "description": "Antenna, playlist and stream channels, set up from your phone or computer.",
     "file": "westy-livetv",
     "versionCode": 1
+  },
+  {
+    "package": "com.jameswestover.westy.cast",
+    "name": "Cast",
+    "description": "Shows a web page from the home server's browser on the TV.",
+    "file": "westy-cast",
+    "versionCode": 1
   }
 ]
