@@ -4,6 +4,10 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.17.2 · 2026-11-26
+- **Fire TVs: the Appstore, not the Play Store.** On a Fire TV, Settings › Apps now talks about
+  Amazon's Appstore and opens it, and the Google account page is gone.
+
 ## v0.17.1 · 2026-11-26
 - **A first try on Amazon Fire TVs.** Westy now installs on Fire TVs (Fire OS 8). Amazon's home
   screen can't be removed, so Westy steps in front of it. On a Fire TV, updates ask on screen
