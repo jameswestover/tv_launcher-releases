@@ -19,6 +19,6 @@
     "name": "Cast",
     "description": "Shows a web page from the home server's browser on the TV.",
     "file": "westy-cast",
-    "versionCode": 1
+    "versionCode": 2
   }
 ]
