@@ -4,6 +4,11 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.17.6 · 2026-11-27
+- **Fire TVs: Westy tries again to turn off Amazon's extras itself.** v0.17.5 gave up on this
+  before it was proven impossible. It's back, it no longer covers the TV's "Allow USB
+  debugging?" question, and it records exactly where each try stops.
+
 ## v0.17.5 · 2026-11-26
 - **Fire TVs: Westy no longer tries to turn off Amazon's extras itself.** Amazon doesn't let an
   app on the TV do that, so v0.17.3's attempt never worked. A computer on the home network
