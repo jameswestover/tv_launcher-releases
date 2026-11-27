@@ -4,6 +4,11 @@ Signed builds of the Westy TV launcher. Boxes check here once a day and
 update themselves when nobody is using the TV. New builds start as betas
 (pre-releases) and become releases once they've been tested. Newest first.
 
+## v0.17.4 · 2026-11-26
+- **Fire TVs: the Appstore opens.** Amazon shows its store inside its own home screen, which
+  Westy was covering straight away. Westy now leaves it alone while you're in the store; press
+  Home to come back.
+
 ## v0.17.3 · 2026-11-26
 - **Fire TVs: Amazon's extras stay off.** Each time the TV starts, Westy turns off Amazon's ads,
   tracking, shopping, telemetry and Alexa, including the parts the TV switches back on by
